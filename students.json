@@ -1,0 +1,114 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "email": "parent.rahul@example.com",
+      "attendance": 58,
+      "marks": 65,
+      "fee_overdue_days": 5,
+      "class": "10A",
+      "parent_name": "Mr. Sharma",
+      "phone": "+91-9876543210"
+    },
+    {
+      "id": 2,
+      "name": "Priya Patel",
+      "email": "parent.priya@example.com",
+      "attendance": 82,
+      "marks": 45,
+      "fee_overdue_days": 35,
+      "class": "10B",
+      "parent_name": "Mrs. Patel",
+      "phone": "+91-9876543211"
+    },
+    {
+      "id": 3,
+      "name": "Amit Kumar",
+      "email": "parent.amit@example.com",
+      "attendance": 45,
+      "marks": 38,
+      "fee_overdue_days": 45,
+      "class": "9A",
+      "parent_name": "Mr. Kumar",
+      "phone": "+91-9876543212"
+    },
+    {
+      "id": 4,
+      "name": "Sneha Gupta",
+      "email": "parent.sneha@example.com",
+      "attendance": 92,
+      "marks": 85,
+      "fee_overdue_days": 0,
+      "class": "11A",
+      "parent_name": "Mrs. Gupta",
+      "phone": "+91-9876543213"
+    },
+    {
+      "id": 5,
+      "name": "Rajesh Singh",
+      "email": "parent.rajesh@example.com",
+      "attendance": 78,
+      "marks": 72,
+      "fee_overdue_days": 12,
+      "class": "10C",
+      "parent_name": "Mr. Singh",
+      "phone": "+91-9876543214"
+    },
+    {
+      "id": 6,
+      "name": "Anjali Desai",
+      "email": "parent.anjali@example.com",
+      "attendance": 65,
+      "marks": 58,
+      "fee_overdue_days": 25,
+      "class": "9B",
+      "parent_name": "Mrs. Desai",
+      "phone": "+91-9876543215"
+    },
+    {
+      "id": 7,
+      "name": "Vikram Joshi",
+      "email": "parent.vikram@example.com",
+      "attendance": 88,
+      "marks": 79,
+      "fee_overdue_days": 8,
+      "class": "12A",
+      "parent_name": "Mr. Joshi",
+      "phone": "+91-9876543216"
+    },
+    {
+      "id": 8,
+      "name": "Neha Reddy",
+      "email": "parent.neha@example.com",
+      "attendance": 42,
+      "marks": 35,
+      "fee_overdue_days": 40,
+      "class": "10A",
+      "parent_name": "Mrs. Reddy",
+      "phone": "+91-9876543217"
+    },
+    {
+      "id": 9,
+      "name": "Sanjay Mehta",
+      "email": "parent.sanjay@example.com",
+      "attendance": 95,
+      "marks": 88,
+      "fee_overdue_days": 2,
+      "class": "11B",
+      "parent_name": "Mr. Mehta",
+      "phone": "+91-9876543218"
+    },
+    {
+      "id": 10,
+      "name": "Pooja Iyer",
+      "email": "parent.pooja@example.com",
+      "attendance": 71,
+      "marks": 62,
+      "fee_overdue_days": 18,
+      "class": "9C",
+      "parent_name": "Mrs. Iyer",
+      "phone": "+91-9876543219"
+    }
+  ]
+}
